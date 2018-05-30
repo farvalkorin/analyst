@@ -37,15 +37,27 @@ Dallas moves to a triple support composition with Winstown during the third team
 
 ## Philadelphia
 
-## Comp 1: Double Sniper
+### Comp 1: Double Sniper
 
 Philly starts off by running a dive-y double sniper composition: Neptuno on Mercy, Boombox on Zenyatta, Hotba on DVa and Sado on Winston. Carpe plays Widow and Eqo plays Hanzo.
 
-Double sniper into rein shield, brigitte shield. Also, dive tanks into brigitte.
-
-## Comp 2: Dive
+### Comp 2: Dive
 
 Philly moves to a 2-2-2 dive composition after the second team fight: Neptuno on Mercy, Boombox on Zenyatta, Hotba on DVa and Sado on Winston. Carpe plays Tracer and Eqo plays Genji.
+
+## Analysis
+
+The original Dallas composition doesn't have a lot of shield break potential; however, against a dive-y double sniper comp being run by Philly, it has a lot of advantages. For one, Brigitte's shield, Rein's shield and DVa's defense matrix can block a lot of the shots and limit the pick potential; additionally, on Hanamura, Widow and Zenyatta can play away from the two choke points to make it very hard for a dive to reach them, especially with a DVa to pressure the high ground choke. Brigitte is an additional deterent to the Philly tanks; which forces them to play outside her range for the most part. This means that the attack relies on getting picks from one of a couple predictable angles by snipers or otherwise maneuvering around the Dallas frontline in multiple steps to avoid Brigitte and Rein. Supportwise, Mercy and Zenyatta are ok; however, compared to the last meeting of these two teams on Hanamura, the Zenyatta is much more likely to get stranded. Previously, Philly ran a Lucio, which could help the Zenyatta move through the choke if needed. This time, the Zenyatta is stuck as by far the least mobile hero. Ultimates-wise, Philly never had a solid team-wipe ultimate or combo. A Graviton-Dragon Strike might have been an option, but Dallas ended up playing somewhat split
+
+When Philly switched to dive after the second fight, they committed to taking a longer route to try and jump in and pick heros. This works for a moment when Eqo's Genji picks Taimou's Widowmaker; however, Taimou is immediately resurrected. From there, the dive ends up falling apart as Dallas is able to sustain with the help of their defensive ultimates long enough to pick out the Tracer and dive tanks. The last push was shut down primarily by the Brigitte taking out the Genji Blade and DVa's defense matrix shutting out the Pulse Bomb (I think?). This further reinforces the hypothesis that the Dallas defense was set up to be anti-dive, with good cooldown management to shut down the effectiveness of potentially game-changing ults from Philly.
+
+For the most part, I don't think that changing to Winston hampered the effectivness of Dallas's triple support comp; however, it did remove the large blue rectangle blocking damage in the choke in favor of pressure from OGE's Tesla Cannon and mobility.
+
+# The Map
+
+Hanamura A favors Dallas's particular composition against the dive primarily because...
+
+<!-- TODO(farvalkorin): pictures and explainers of the different positions that Dallas held, along with dive paths-->
 
 # Team Fights
 
@@ -106,6 +118,3 @@ Philly has Dragon Blade and will have Pulse Bomb. Sado is about 60% of the way t
 After the dive, Eqo opens up the fight with his Dragon Blade; however, Mickie finds him almost immediately and shuts him down with a shield bash and whip (with a little help from a Discord Orb). This gives him Rally, which he immediately uses. OGE finds a kill on Neptuno, and the fight is pretty much over at this point. It looks like Carpe's Pulse Bomb got eaten by DVa's matrix (or whiffed?), Mickie picks off the Boombox with another whip, Taimou gets Carpe and Hotba gets de-meched. Sado doesn't make it to Primal and dies trying to get to the point in overtime. 
 
 ### Analysis
-
-# The Map
-
