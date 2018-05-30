@@ -51,11 +51,13 @@ Dallas convincingly wins this fight, largely with the first pick. If Neptuno sta
 
 Coming into the second team fight, Dallas leads the ultimate economy. Seagull has 83% ult charge and both supports have more than 60% charge after topping up the team and assisting on a kill and the demech. Taimou is about half way to Infrasight. OGE and Mickie are both less than a third of the way to their ultimates. 
 
-Carpe has 50% charge to Widow's Infrasight and both of the Philladelphia supports have 50% ult charge. Eqo, Sado and Hotba are all below a third of the way to their ultimates.
+Carpe has 50% charge to Widow's Infrasight and both of the Philladelphia supports have 50% ult charge. Eqo and Sado are all below a third of the way to their ultimates. Hotba loses all ult charge to remech.
 
 Leading into the fight, neither team will have ults to initiate; however, Seagull will likely get ult and both support lines may likely to get their defensive ults as well; however, they may or may not get used based on the timing relative to the pace of the fight.
 
 ### Fight Summary
+
+The fight starts with a Philly dive through the top window onto HarryHook and Seagull. HarryHook escapes and Seagull backs up. Sado jumps to the point; however, just after this, Seagull uses self destruct and ends up killing Neptuno. Seagull chases Sado down on point and kills the Winston. This leaves Hanzo and Zenyatta outside the choke for Philly and Widow and DVa split inside the choke. Seagull chases down Carpe, and the fight ends when Hotba leaves.
 
 ### Fight Analysis
 
