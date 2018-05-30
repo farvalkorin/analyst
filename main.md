@@ -27,13 +27,25 @@ Both teams have new members playing in their Stage 4 matchup. Philly played Nept
 
 ## Dallas
 
+### Comp 1: Triple Support with Reinhardt
+
 Dallas starts off by running a triple support composition: HarryHook on Mercy, Unkoe on Zenyatta, Mickie on Brigitte (3rd support or off tank depending on how you look at it), Seagull on DVa and OGE on Reinhardt. Taimou plays Widow.
+
+### Comp 2: Triple Support with Winston
+
+Dallas moves to a triple support composition with Winstown during the third team fight: HarryHook on Mercy, Unkoe on Zenyatta, Mickie on Brigitte (3rd support or off tank depending on how you look at it), Seagull on DVa and OGE on Winston. Taimou plays Widow.
 
 ## Philadelphia
 
+## Comp 1: Double Sniper
+
 Philly starts off by running a dive-y double sniper composition: Neptuno on Mercy, Boombox on Zenyatta, Hotba on DVa and Sado on Winston. Carpe plays Widow and Eqo plays Hanzo.
 
-Double sniper into rein shield, brigitte shield. Also, dive into brigitte.
+Double sniper into rein shield, brigitte shield. Also, dive tanks into brigitte.
+
+## Comp 2: Dive
+
+Philly moves to a 2-2-2 dive composition after the second team fight: Neptuno on Mercy, Boombox on Zenyatta, Hotba on DVa and Sado on Winston. Carpe plays Tracer and Eqo plays Genji.
 
 # Team Fights
 
@@ -55,12 +67,45 @@ Carpe has 50% charge to Widow's Infrasight and both of the Philladelphia support
 
 Leading into the fight, neither team will have ults to initiate; however, Seagull will likely get ult and both support lines may likely to get their defensive ults as well; however, they may or may not get used based on the timing relative to the pace of the fight.
 
-### Fight Summary
+### Summary
 
-The fight starts with a Philly dive through the top window onto HarryHook and Seagull. HarryHook escapes and Seagull backs up. Sado jumps to the point; however, just after this, Seagull uses self destruct and ends up killing Neptuno. Seagull chases Sado down on point and kills the Winston. This leaves Hanzo and Zenyatta outside the choke for Philly and Widow and DVa split inside the choke. Seagull chases down Carpe, and the fight ends when Hotba leaves.
+The fight starts with a Philly dive through the top window onto HarryHook and Seagull. HarryHook escapes and Seagull backs up. Sado jumps to the point; however, just after this, Seagull uses self destruct and ends up killing Neptuno. Seagull chases Sado down on point and kills the Winston. This leaves Hanzo and Zenyatta outside the choke for Philly and Widow and DVa split inside the choke. Seagull chases down Carpe, and the fight ends when Hotba leaves, this time keeping the DVa mech.
 
-### Fight Analysis
+### Analysis
 
+## Team Fight 3
+
+### Ult Economy
+
+Entering the third team fight, Dallas is in a pretty good position. Taimou nearly has Infrasight, HarryHook has Valkyrie and Unkoe has Transcendence. Mickie is 90% of the way to Rally and Seagull is already 40% of the way back to his ult after using at the beginning of the last fight. OGE has been holding the main choke and lags behind at 60% of the way to Earthshatter.
+
+Philly ends up swapping to a 2-2-2 dive comp, with Carpe and Eqo switching to Tracer and Genji respectively. This resets their ult charge, leaving the team with two support ults. Sado and Hotba are both about 70% of the way to their tank ults. Tracer's ultimate in particular can charge quickly so it may be used in the fight, but only if the fight drags on.
+
+Leading into the fight, Philly doesn't have any offensive ultimates; however, they may chose to engage with Valkyrie. This gives them the option to use Transcendence as a defense against a possible shatter or to protect a resurrect; however, with a Widow in place, it won't prevent a pick by itself. Both Primal Rage and Self-Destruct can be used to stall the point or make space; however, with just under 2 minutes, I'd expect Philly to hold on to these ultimates for a final push.
+
+Dallas no longer has to worry about holding a defensive ult for a Dragon Strike, so they can use Transcendence or Valkyrie to sustain the team during a fight or protect a dive target (potentially themselves). I expect Taimou to use the Infrasight when it comes up because he no longer has to worry about countering an enemy Widow's Infrasight; however, it can also be used later to seek out the enemy team on a later push when their positions aren't yet known. Rally will likely be used leading into a fight to build up team armor.
+
+### Summary
+
+Mickie leads with Rally for Dallas. Philly dives in, again towards Seagull. In the poke and dive, Sado builds Primal and uses it to keep himself alive. Transcendence gets used by Unkoe to save himself from being focused during the Primal Rage, and he moves to heal up his tanks and position near Mickie (Brigitte). This pushes Winston and the Philly supports back outside the main choke. While this is happening, Eqo finds Taimou, but HarryHook immediately resurrects the Widow. Hotba finds OGE and Carpe is killed by Taimou.
+
+HarryHook uses Valkyrie, so the fight is now Dallas minus OGE versus Philly without Carpe where Eqo (Genji) and Neptuno (Mercy) are low health. HarryHook finishes off Neptuno, but Sado finds and kills Unkoe. At this point, OGE swaps to Winston to make it back tot the point faster. Taimou finds a pick on Sado as he tries to jump away and Hotba gets de-meched by Seagull.
+
+### Analysis
+
+## Team Fight 4
+
+### Ult Economy
+
+With 15 seconds left, Dallas has Seagull's Self-Destruct. The next closest ultimate is Rally, which is about 30% away and may come up during the fight.
+
+Philly has Dragon Blade and will have Pulse Bomb. Sado is about 60% of the way to another Primal Rage. Hotba has to remech and shouldn't have his ult during the fight. If Philly can get a pick or two with Pulse Bomb and/or Dragon Blade, they may be able to clean up and secure the point.
+
+### Summary
+
+After the dive, Eqo opens up the fight with his Dragon Blade; however, Mickie finds him almost immediately and shuts him down with a shield bash and whip (with a little help from a Discord Orb). This gives him Rally, which he immediately uses. OGE finds a kill on Neptuno, and the fight is pretty much over at this point. It looks like Carpe's Pulse Bomb got eaten by DVa's matrix (or whiffed?), Mickie picks off the Boombox with another whip, Taimou gets Carpe and Hotba gets de-meched. Sado doesn't make it to Primal and dies trying to get to the point in overtime. 
+
+### Analysis
 
 # The Map
 
