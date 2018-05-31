@@ -373,7 +373,10 @@ top). If a team can hold the main choke and pressure or hold the high window,
 they can effectively shut out a less mobile team or split out a mobile team
 whose supports can't make the jump (Zenyatta, I'm looking at you).
 
-![View of 2 chokepointss on Hanamura Point A](https://images.eurogamer.net/2016/metabomb/hanamurasniping6.jpg)
+![View of 2 chokepoints on Hanamura Point A, with the doors
+highlighted](https://gist.github.com/farvalkorin/47c058dddadef1986946912dcdf976c1/raw/master/hanamuraA1_paths.jpg
+"Hanamura A, annotated")
+![View of 2 chokepoints on Hanamura Point A](https://images.eurogamer.net/2016/metabomb/hanamurasniping6.jpg)
 
 From these first two points, there are 3 main ways to reach the point: a small
 room to the attacker's right, traveling across open space directly to the point,
