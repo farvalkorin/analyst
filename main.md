@@ -11,6 +11,8 @@ explain how the composition functions, how the Dallas Fuel was positioned and
 why, why the composition is strong on Hanamura A, and finally the overall
 strengths and weakness of the strategy.
 
+<!-- TODO(farvalkorin): more pictures -->
+
 # The Game
 
 The Overwatch game in question is a match between the Dallas Fuel and
@@ -124,10 +126,6 @@ For the most part, I don't think that changing to Winston hampered the
 effectivness of Dallas's triple support comp; however, it did remove the large
 blue rectangle blocking damage in the choke in favor of pressure from OGE's
 Tesla Cannon and mobility.
-
-# The Map
-
-Hanamura A favors Dallas's particular composition against the dive primarily because...
 
 <!-- TODO(farvalkorin): pictures and explainers of the different positions that Dallas held, along with dive paths-->
 
