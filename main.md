@@ -63,11 +63,13 @@ Hanamura A favors Dallas's particular composition against the dive primarily bec
 
 ## Team Fight 1
 
+### Summary
+
 On the first attack, Taimou picks off Neptuno, removing Philly's resurrect from the equation. Seagull kills Carpe and pops Hotba out of the DVa mech, ending the first push.
 
-### Fight Analysis
+### Analysis
 
-Dallas convincingly wins this fight, largely with the first pick. If Neptuno stays alive longer, he can resurrect Carpe on Widow and may be able to keep Hotba in mech long enough to push in. At the time of the pick on Carpe, Hotba had moved in on DVa but both Winston and Hanzo were still at the choke.
+Dallas convincingly wins this fight, largely with the first pick on the Mercy (Neptuno). If Neptuno stays alive longer, he can resurrect Carpe on Widow and may be able to keep Hotba in mech long enough to push in. At the time of the pick on Carpe, Hotba had moved in on DVa but both Winston and Hanzo were still at the choke.
 
 ## Team Fight 2
 
@@ -84,6 +86,8 @@ Leading into the fight, neither team will have ults to initiate; however, Seagul
 The fight starts with a Philly dive through the top window onto HarryHook and Seagull. HarryHook escapes and Seagull backs up. Sado jumps to the point; however, just after this, Seagull uses self destruct and ends up killing Neptuno. Seagull chases Sado down on point and kills the Winston. This leaves Hanzo and Zenyatta outside the choke for Philly and Widow and DVa split inside the choke. Seagull chases down Carpe, and the fight ends when Hotba leaves, this time keeping the DVa mech.
 
 ### Analysis
+
+Neptuno gets picked again, this time on a positioning mistake. This leaves the team out of its main source of healing and a resurrect. In what appears to be an attempt to pull Dallas out of position, Sado moves to the point; however, either by lack of coordination or lack of cooldowns, Winston is alone on the point. This leads to him getting focused down alone by Seagull in a position that would have been borderline un-resurrectable anyway. Dallas again takes the fight when neither of the Dallas supports get focused down and the team can't make it passed the choke or find picks.
 
 ## Team Fight 3
 
