@@ -308,6 +308,10 @@ the point in overtime.
 
 ### Analysis
 
+<!-- TODO(farvalkorin): not necessarily this fight, but does one person enter the fight late or
+early consistently? is this a common problem? Q to think about for analysis -->
+<!-- TODO(farvalkorin): make sure analysis isn't a replay of the summary/replay -->
+
 Philly has the ultimate advantage to take the final fight; however, critically,
 they don't have any sustain ultimates left (I'm broadly including Primal Rage
 and Self Destruct for remech as sustain here). In this last fight, the strengths
@@ -315,3 +319,127 @@ of the Dallas composition as an anti-dive comp come through. The cooldown
 abilities of Brigitte (shield bash/whip), DVa (defense matrix) and Zenyatta
 (discord orb) shine through and shut down what otherwise could have been game
 changing ultimates. 
+
+# Overall Analysis
+
+This section more directly addresses the analyst prompt above.
+
+## How does this composition work?
+
+The Dallas composition is playing a split composition that counters what I see
+as three major trends in Overwatch: dive, double sniper comps and Hanzo/Zarya
+wombo-combos. These three aren't necessarily exclusive, as seen by Philly
+running a dive-y double-sniper composition (Zarya was also run in dive at one
+point iirc).
+
+The Dallas composition works against dive because it allows Dallas's front line
+to take lots of space and make it hard for a dive to get to their back line.
+While Mickie on Brigitte is a dive counter and was involved in breaking up many
+of the plays attempted by Philly, I would argue that, on a different map or if
+Taimou and Unkoe positioned differently, the dive could have rotated out of
+Mickie's range and he would have been ineffective in the position he played.
+Later, when the fights condense onto the point, Brigitte as an anti-dive hero
+starts to shine: she can stun/whip Genji and control the dive tanks particularly
+well. Especially when Philly switches to what I consider a stereotypical 2-2-2
+dive, the Dallas composition shines because the cooldowns available (stun,
+defense matrix come to mind) are good counters to both the typical play and
+ultimates of the dive DPS (Dragon Blade and Pulse Bomb, respectively).
+
+The Dallas composition also works well against a double sniper composition and a
+dive-y one in particular. Reinhardt, DVa, Brigitte and later Winston are all
+hard targets to burst down before a support can prop them up, especially with
+a Rein shield cutting off some of the angles. Unkoe can play back at the range
+of his Discord Orb and HarryHook can play at safe angles to support his team
+with minimal risk of getting picked off.
+
+The Dallas composition also works well against a potential Zarya/Hanzo ultimate
+combo offense. The team plays very spread out (except to gather for Rally) and
+there isn't a lot of spam damage from a Junkrat or Pharah that would easily
+charge up a Zarya. DVa can be an ult battery for Zarya, but on the other hand a
+well timed defense matrix can eat the Graviton.
+This means that the combo would likely come up infrequently
+and it doesn't pair well with Philly's otherwise mobile tank lineup. If they had
+switched to a Rein/Zarya composition, they could have challenged Reinhardt and
+Brigitte in the choke, but the pair of them can cause big problems for an
+offensive Rein that doesn't also have his own Brigitte to back him up.
+
+This composition isn't a generic antidote to dive or other comps, but based on
+how Dallas was able to position on Hanamura, their composition was effective.
+
+## Why Hanamura A? Dallas Fuel Positioning
+
+Hanamura A is one of the most restricted entrances to a first point on 2CP maps.
+There is the wider main choke and the high dive window, but at that particular
+wall, that is the only way in (short of flying a Pharah all the way over the
+top). If a team can hold the main choke and pressure or hold the high window,
+they can effectively shut out a less mobile team or split out a mobile team
+whose supports can't make the jump (Zenyatta, I'm looking at you).
+
+From these first two points, there are 3 main ways to reach the point: a small
+room to the attacker's right, traveling across open space directly to the point,
+or taking the long way behind the buildings to the attacker's left.
+
+Dallas's general strategy was to split into pairs. Reinhardt and Brigitte held
+the main choke (for much of the game), DVa and Mercy held the high ground
+entrance and Zenyatta and Widow played back, using their lack of falloff to deal
+damage and make any dive expensive, in terms of cooldowns and time, to reach
+them. Later, when OGE is picked off and returns as Winston, he again positions
+forward with DVa and Mickie rotates back to more of a backline peel role on
+the point, making a dive onto supports even more challenging. 
+
+In the section above about the different composition counters, I don't talk much
+about DVa in how she specifically
+counters Philly's comps; however, on Hanamura A her mobility in general and her
+vertical mobility in particular shines. DVa is the reason that Philly can
+contest the high window with essentially two players (with HarryHook on the
+heals/damage boost). Seagull ends up flying all over the map, dealing with
+snipers, tanks and healers throughout the game. DVa and Mercy are also in a
+position to drop easily to the main choke to support the Rein/Brigitte as
+needed, or, during this game, avoid the dive and damage.
+
+This positioning
+controls both the two main chokes as well as making it easy to defend the 3
+potential attack paths if the other team makes it through the choke. The room to
+the attacker's right is a nightmare for most any team comp. The room is an
+enclosed space where there are two heros with hammers that can swing away, CC
+and have sustain through Brigitte's passive heal (her abilities are almost
+guarunteed to hit in the small space) and her armor pack for Reinhardt. In the
+worst case, Rein's shield can block almost all damage coming through
+the small doorway. The only way I'd want to make it much worse would be to add a
+Junkrat.
+
+This leaves the open space in the middle of the point and the longer left flank.
+When Taimou is hitting his shots and is generally uncontested, this is a
+nightmare for a comp that is not significantly more beefy than what Philly
+selected. At times, even Sado on Winston couldn't cross the space fast enough.
+
+In the end, the left flank is probably the most viable option if the healers can
+get through the door (as seen the last time these two teams played). Based on
+how Dallas was positioned, they don't have a bunch of players overloading this
+side, but the team can relatively easily rotate their positioning to counter
+this kind of push, especially with the visibility and pressure from Seagull on
+DVa. 
+
+Based on how Dallas positioned, they also controlled all of the sightlines from
+the start. On a different map, there is the opportunities for snipers to appear
+from many different positions; however, on Hanamura, there are really two
+windows of opportunity. The Dallas Reinhardt positioning shuts down almost the
+entire main choke, but still allows Taimou to take shots at players positioned
+there. The DVa on high ground also limits the effectiveness of snipers that sit
+in or move through the high ground window. During the game, Carpe was never
+actually killed by Taimou, but he was never able to get picks because he was
+constantly saught out by Seagull.
+
+## Composition Weaknesses
+
+The composition works well on Hanamura A; however, 
+<!-- TODO(farvalkorin): go back to common hero counter picks, was there 1 hero
+to swap that would have made the comp stronger, composition
+counter picks, then team fights/ult combos that a team could use to break it,
+then positioning/attack routes -->
+<!-- TODO(farvalkorin): find another Hanamura A defense that was similar, or
+find a solid offense on Hanamura this season -->
+
+# Recommendation for Houston Outlaws
+
+<!-- TODO(farvalkorin): Recommend something based on their strengths and above weaknesses-->
