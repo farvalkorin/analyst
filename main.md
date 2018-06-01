@@ -439,20 +439,16 @@ Another aspect of the Philly attack that was limited was the mobility and vulner
 
 As a more whole-scale swap, I think that moving to a more grounded composition to pressure the main choke would have been a more successful attack against this very split team. I propose swapping to Reinhardt, DVa, Widow, Junkrat, Zenyatta, Mercy. Reinhardt would allow for the team to pressure the main choke directly with Junkrat providing extra shield pressure that Dallas couldn't match. DVa provides some vertical mobility to challenge high ground and protect supports; otherwise, Dallas could shoot fish in a barrel from high ground. Widow's role would mainly be to counter the enemy Widow and force Dallas supports to be more hesistant and careful while looking for picks on said supports. In this case, I think that the Mercy remains a solid choice because resurrect can provide value and the team won't be wholesale shifting its center of mass as quickly.
 
+This composition with Reinhardt and DVa has a couple of ultimates that can set up a team for a wipe to clear the first point. A Reinhardt Earthshatter combined with a DVa bomb or a Junkrat Riptire can provide a wipe combination. The tire and shatter can also be used individually and get value. In particular, Hanamura A is a good point where there are lots of walls and vertical space for the tire to get close to a team (supports especially) without leaving it too vulnerable to destruction. 
+
 DVa could also be replaced by the Zarya for her ultimate; however, I think that Zarya would have a harder time getting charge and with spread positioning by Dallas, the Graviton would likely be less effective. Brigitte could also be a good choice for more of an off-tank role and to open up opportunities for stuns to insta-break Rein's shield and pick off the main tank. She also allows for counter-play against Mickie's Brigitte.
 
+Mercy can also be replaced with a Lucio for increased mobility; however, I still see value in a resurrect, especially in the face of an enemy Widow. The third swap from the recommended composition is to drop the explicit DPS and instead favor a tank heavy composition with an attack Brigitte.
 
-<!-- TODO(farvalkorin): go back to common hero counter picks, was there 1 hero
-to swap that would have made the comp stronger, composition
-counter picks, then team fights/ult combos that a team could use to break it,
-then positioning/attack routes -->
-<!-- TODO(farvalkorin): find another Hanamura A defense that was similar, or
-find a solid offense on Hanamura this season -->
+This last tank heavy, anti-sniper comp after a couple of switches is pretty much what San Francisco Shock ran against Dallas in [their match on Hanamura](https://overwatchleague.com/en-us/match/10471/game/10058). They ran Lucio, Zenyatta, Brigitte, DVa, Zarya and Reinhardt. This let them take Point A on Hanamura twice against the same composition that Dallas used to hold Philly.
 
 # Recommendation for Houston Outlaws
 
-<!-- TODO(farvalkorin): Recommend something based on their strengths and above weaknesses-->
+I'd recommend that Houston Outlaws go Rein, Zarya, Junkrat, Widow, Mercy, Zenyatta. It's a composition that they've run (or close to it) before and it plays to their strengths. If Zarya isn't providing value, they can switch to a DVa or swap out to the tanky, anti-sniper composition run by the Shock.
 
-I'd recommend that Houston Outlaws go Rein, Zarya, Junkrat, Widow, Mercy, Zenyatta. It's a composition that they've run (or close to it) before and it plays to their strengths. If Zarya isn't providing value, they can switch to a DVa.
-
-I think that my recommendation fits the Houston Outlaws past play styles and strengths and counters the heros and composition of Dallas. They can force their way through the choke, likely picking off the Dallas Reinhardt or forcing him to retreat and then force the fight to the point on Hanamura, where a Grav-Riptire combo could be deadly and effective for breaking a first point hold.
+I think that my recommendation fits the Houston Outlaws past play styles and strengths and counters the heros and composition of Dallas. They can force their way through the choke, likely picking off the Dallas Reinhardt or forcing him to retreat and then move through the right room around to force the fight to the point on Hanamura, where a Grav-Riptire combo could be deadly and effective for breaking a first point hold.
