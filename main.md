@@ -11,8 +11,6 @@ explain how the composition functions, how the Dallas Fuel was positioned and
 why, why the composition is strong on Hanamura A, and finally the overall
 strengths and weakness of the strategy.
 
-<!-- TODO(farvalkorin): more pictures -->
-
 # The Game
 
 The Overwatch game in question is a match between the Dallas Fuel and
@@ -126,8 +124,6 @@ For the most part, I don't think that changing to Winston hampered the
 effectivness of Dallas's triple support comp; however, it did remove the large
 blue rectangle blocking damage in the choke in favor of pressure from OGE's
 Tesla Cannon and mobility.
-
-<!-- TODO(farvalkorin): pictures and explainers of the different positions that Dallas held, along with dive paths-->
 
 # Team Fights
 
@@ -307,7 +303,7 @@ the point in overtime.
 ### Analysis
 
 <!-- TODO(farvalkorin): not necessarily this fight, but does one person enter the fight late or
-early consistently? is this a common problem? Q to think about for analysis -->
+early consistently? is this a common problem? Question to think about for analysis -->
 <!-- TODO(farvalkorin): make sure analysis isn't a replay of the summary/replay -->
 
 Philly has the ultimate advantage to take the final fight; however, critically,
@@ -374,8 +370,7 @@ they can effectively shut out a less mobile team or split out a mobile team
 whose supports can't make the jump (Zenyatta, I'm looking at you).
 
 ![View of 2 chokepoints on Hanamura Point A, with the doors
-highlighted](hanamuraA1_paths.jpg?raw=true)
-![View of 2 chokepoints on Hanamura Point A](https://images.eurogamer.net/2016/metabomb/hanamurasniping6.jpg)
+highlighted](hanamuraA1_paths.jpg?raw=true "Image originally from https://images.eurogamer.net/2016/metabomb/hanamurasniping6.jpg")
 
 From these first two points, there are 3 main ways to reach the point: a small
 room to the attacker's right, traveling across open space directly to the point,
@@ -434,7 +429,19 @@ constantly saught out by Seagull.
 
 ## Composition Weaknesses
 
-The composition works well on Hanamura A; however, 
+### Individual Heros
+
+The composition works well on Hanamura A; however, it isn't invulnerable and I think that the Philadelphia call to switch to a full dive was suboptimal. The Dallas composition revolves around the new hero Brigitte and her synergy with Reinhardt. This allows Dallas to contest the choke with two heros and make lots of space for their back line. Common counters to Brigitte include Junkrat and Pharah. I think that potentially swapping the old-patch Hanzo for one of these heros would have provided a lot of value for pressuring Rein and Brigitte. One might also argue to switch the Widow, but I think that, at least at the OWL level, taking a Widow v. Widow duel is a viable option. Additionally, Widow is another DPS hero that can provide value outside Brigitte's range.
+
+Another aspect of the Philly attack that was limited was the mobility and vulnerability of their Zenyatta. For the most part, Philly also doesn't get value out of their ressurects on Mercy because Neptuno gets picked early; therefore, I propose swapping out the Mercy for a Lucio. As an individual swap, the Lucio could have provided more value with the speed boost than Mercy did with resurrect and damage boost.
+
+### Compositions
+
+As a more whole-scale swap, I think that moving to a more grounded composition to pressure the main choke would have been a more successful attack against this very split team. I propose swapping to Reinhardt, DVa, Widow, Junkrat, Zenyatta, Mercy. Reinhardt would allow for the team to pressure the main choke directly with Junkrat providing extra shield pressure that Dallas couldn't match. DVa provides some vertical mobility to challenge high ground and protect supports; otherwise, Dallas could shoot fish in a barrel from high ground. Widow's role would mainly be to counter the enemy Widow and force Dallas supports to be more hesistant and careful while looking for picks on said supports. In this case, I think that the Mercy remains a solid choice because resurrect can provide value and the team won't be wholesale shifting its center of mass as quickly.
+
+DVa could also be replaced by the Zarya for her ultimate; however, I think that Zarya would have a harder time getting charge and with spread positioning by Dallas, the Graviton would likely be less effective. Brigitte could also be a good choice for more of an off-tank role and to open up opportunities for stuns to insta-break Rein's shield and pick off the main tank. She also allows for counter-play against Mickie's Brigitte.
+
+
 <!-- TODO(farvalkorin): go back to common hero counter picks, was there 1 hero
 to swap that would have made the comp stronger, composition
 counter picks, then team fights/ult combos that a team could use to break it,
@@ -445,3 +452,7 @@ find a solid offense on Hanamura this season -->
 # Recommendation for Houston Outlaws
 
 <!-- TODO(farvalkorin): Recommend something based on their strengths and above weaknesses-->
+
+I'd recommend that Houston Outlaws go Rein, Zarya, Junkrat, Widow, Mercy, Zenyatta. It's a composition that they've run (or close to it) before and it plays to their strengths. If Zarya isn't providing value, they can switch to a DVa.
+
+I think that my recommendation fits the Houston Outlaws past play styles and strengths and counters the heros and composition of Dallas. They can force their way through the choke, likely picking off the Dallas Reinhardt or forcing him to retreat and then force the fight to the point on Hanamura, where a Grav-Riptire combo could be deadly and effective for breaking a first point hold.
