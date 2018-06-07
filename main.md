@@ -449,6 +449,6 @@ This last tank heavy, anti-sniper comp after a couple of switches is pretty much
 
 # Recommendation for Houston Outlaws
 
-I'd recommend that Houston Outlaws go Rein, Zarya, Junkrat, Widow, Mercy, Zenyatta. It's a composition that they've run (or close to it) before and it plays to their strengths. If Zarya isn't providing value, they can switch to a DVa or swap out to the tanky, anti-sniper composition run by the Shock.
+I'd recommend that Houston Outlaws go Rein, Zarya, Junkrat, Widow, Mercy, Zenyatta. It's a composition that they've run (or close to it) before and it plays to their strengths. If Zarya isn't providing value, they can switch to a DVa. The win condition for not getting full held is clear and if that doesn't work there are viable switches that can be made that don't ruin the entire ult economy.
 
-I think that my recommendation fits the Houston Outlaws past play styles and strengths and counters the heros and composition of Dallas. They can force their way through the choke, likely picking off the Dallas Reinhardt or forcing him to retreat and then move through the right room around to force the fight to the point on Hanamura, where a Grav-Riptire combo could be deadly and effective for breaking a first point hold.
+I think that my recommendation also fits the Houston Outlaws past play styles and strengths and counters the heros and composition of Dallas. They can force their way through the choke, likely picking off the Dallas Reinhardt or forcing him to retreat and then force the fight to the point on Hanamura, where a Grav-Riptire combo could be deadly and effective for breaking a first point hold.
