@@ -1,3 +1,10 @@
+
+# The Intro
+
+The LA Valiant took down the crosstown rival Gladiators and the season leading NYXL to win the Stage 4 playoffs. What could have happened if the Gladiators had instead chosen to face off against the NYXL in the first round, and the Valiant had met the Dallas Fuel in the playoffs?
+
+The analysis focuses on a mini-reverse sweep on Lijang Tower where the previously undefeated Valiant are taken down. Dallas Fuel turn around a 99-0 loss into a 99-38 win followed by a 99-0 victory to seal the deal.
+
 # Alternate History: Overwatch Edition
 
 In the most recent stage finals, the LA Valiant defeated the LA Gladiators during a battle for LA. In the other pair, the NYXL defeated the Dallas Fuel. This brought NYXL to the finals against the Valiant, and the Valiant won in 4 games.
