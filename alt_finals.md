@@ -1,3 +1,4 @@
+<!-- TODO(farvalkorin): add twitch/OWL links to video -->
 If you like this, check out more at [farvalkorin.github.io/analyst](https://farvalkorin.github.io/analyst/index)
 
 # The Intro
@@ -53,7 +54,7 @@ On Watchpoint: Gibraltar, Dallas Fuel end up winning 4-3. Compared with the othe
 Lijang Tower is made up of 3 maps: Gardens, Control Center, and Night Market.
 
 ![Lijang Tower Top Down (Stat banana)](https://drive.google.com/file/d/1fRXx6WFYdIieW8Ymfqbbj0MjhZwrFaOB/view)
-<!-- this might be broken because drive -->
+<!--  TODO(farvalkorin): This is broken because drive. Download and replace. -->
 
 ### Gardens
 
@@ -140,6 +141,8 @@ The Barrage ends up sealing the fight, but the deciding factor ended up being th
 This fight shows the opportunity for more pick-focused comps to suppress support ult charge __with follow up damage__. Through all the picks (including the supports) the Valiant convincingly lead the ult charge race to the potential defensive ultimate (both supports at 80+%) with HarryHook at 60% and Unkoe at 37%. No Dallas Fuel player got ults going into the final fight.
 
 ## Control Center
+
+<!-- TODO(farvalkorin): start here -->
 
 ### Team Fight 1
 
