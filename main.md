@@ -1,3 +1,5 @@
+If you like this, check out more at https://farvalkorin.github.io/analyst/index
+
 # The Intro
 
 This post is for the 
