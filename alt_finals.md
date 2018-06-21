@@ -69,3 +69,82 @@ Control Center plays the most differently out of the 3 maps, largely because its
 
 Night Market is the most linear of the three maps in Lijang Tower. Fights tend to happen in either the main courtyard (image left with the lions) or on the point. The square room between the two can some times be involved in either fight, and the corridor to the far left  with a mega health pack can also be used for sightlines onto the lions; however, fights tend to take place either in the courtyard or on point, depending on the attacker's choice. Similar to Control Center, the defenders also have a good choke to push their advantage. There is an obvious alternate path; however, tanks can pursue either in the courtyard or the adjoining room to pressure or easily rotate a small amount in the courtyard so breaking through the frontline remains a must. There is a lot of boop opportunity to the right of the point; however, that outside area sees fights less often.
 
+# Hero Matchups and Compositions
+
+## Valiant
+
+### Gardens: Pharah Widow Dive
+
+The Valiant run dive tanks with Fate on Winston and Space on DVa. They choose to run Soon on Widowmaker and Agilities on Pharah for DPS. Custa and Kariv play Mercy and Zenyatta respectively.
+
+## Dallas
+
+### Gardens: Pharah Widow Dive
+
+The Fuel run the same composition, with OGE on Winston, Mickie on DVa, AKM on Widowmaker, Seagull on Pharah, HarryHook on Mercy and Unkoe on Zenyatta.
+
+## Analysis
+
+### Gardens
+
+As mentioned above in the map discussion, the long sightlines on the map favor a Widowmaker, and the large skybox with a central pillar means that Pharah has a lot of space to work and provide value, even against an enemy Widowmaker. With dive comps that run Pharah and Widowmaker, neither team is really set up to brawl on point. If the tanks and/or supports are on the point, the Pharah and Widow have to expose themselves more to see onto the point and risk sitting alone or choose the worse option to move to point and give up their range. The teams will instead want to control the open spaces with range and then punish exposed targets on the other team. This leads to an advantage for the defensive Pharah and Widowmaker who can use their mobility and range respectively to pressure the other team before they can even reach the point while remaining relatively safe (especially if they have a Mercy pocketing them).
+
+In a mirror comp, neither team starts with an explicit advantage by hero counters.
+
+# Team Fights
+
+## Gardens
+
+### Team Fight 1
+
+#### Summary
+
+Leading up to the first pick, Dallas appears to be more effective in dealing damage than the Valiant. Dallas's DVa has 10% more charge, Pharah has +10%, and their Zenyatta has 15% more charge than the Valiant's. AKM is behind Soon in ult charge, but he finds the first pick on Soon. Fate gets the kill on HarryHook and Kariv kills Unkoe, taking out the Dallas supports with help from Agilities. Kariv kills AKM, but gets killed by Seagull. Fate then trades in Seagull and Agilities cleans up Mickie on point.
+
+#### Analysis
+
+While Dallas was dealing more damage than the Valiant early in the fight and got the first pick, the Valiant find the key picks to start the fight. Specifically, they take out the Fuel supports early. This is key for both the first fight and the ensuing fights because it cuts out any sustainability the Fuel comp has and puts the Valiant supports ahead in the defensive ult economy.
+
+### Team Fight 2
+
+#### Ult Economy
+
+Custa's healing that sustained the team in the first fight has led him to have a Valkyrie available in the second fight before any other ultimate. The Valiant are also close to Transcendence (72%) and DVa bomb (77%) for the next fight if the team can keep them alive. Dallas Fuel's two closest players are DVa and Widowmaker. Neither ult is necessarily a fight win; however, both can lead to picks that can turn the tide of a fight. Based on the early Valkyrie, the Valiant should win this fight with a single ultimate and be able to keep the team alive long enough to build up more ultimates.
+
+~~In pick based comps like a Widow plus Pharah with dive follow up, the supports on both sides will have a harder time gaining ult charge on healing, although they can clean up the splash damage. They are also more likely to be focused by the enemy team.~~
+
+#### Summary
+
+The Fuel enter through White. In practice, both teams build their support ults quickly. This comes from Zenyatta dealing damage and Mercy healing a number of headshots from Soon on beefier targets that are not instakills. Soon plays aggressively, builds Infrasight and uses it almost immediately. The Fuel enter through White and move to fight on point. OGE dives onto the Valiant supports and then uses Primal Rage. Custa and HarryHook both use Valkyrie, Space uses Self-Destruct and Fate uses Primal Rage. Both Zenyattas use Transcendence.
+
+The first pick of the fight comes through when Space and Agilities kill Unkoe on point. Mickie launches his Self-Destruct on point. The tail end of Fate's Primal Rage kills OGE and Seagull uses Rocket Barrage to kill Kariv. Space finds and kills HarryHook. At this point, Dalls are without supports again, this time with Mickie, Seagull and AKM remaining. The Valiant have everyone but Kariv alive, and then resurrect Kariv, giving Mickie a chance to finish off OGE. Mickie exists and the teams reset. The Valiant have 70% point capture.
+
+#### Analysis
+
+### Team Fight 3
+
+#### Ult Economy
+
+The last fight lasted much longer than anticipated and the teams gathered ult charge much quicker, leading to just about every ultimate being used in the fight except Agilities' Rocket Barrage. Dallas Fuel is again behind, with their highest ult charge being Mickie with 28% after killing OGE. The Valiant have Agilities' Barrage, Space is 84% to Self-Destruct and Soon is 74% to Infrasight. Valiant have the advantage in the ultimate economy; however, Barrage by itself is often shut down in high level play unless the Valiant can de-mech Mickie and set Agilities up in a position (by surprise or sightlines) where he can't be killed by some combination of Seagull, AKM and Unkoe who can all kill him outside the effective range of the Barrage.
+
+Valiant should win this with their ultimate economy advantage; however, the fight may come down to which side can keep their supports alive long enough to build a defensive ult and sustain their team first. Based on the first two fights, that ult race slightly favors the Valiant as well.
+
+#### Summary
+
+The Valiant set up in a position that is more rotated to defend White and the point, with Agilities and Soon taking the left angles and Kariv on point watching the bridge side. Agilities finds an opening pick on AKM as he tries to move through White alone, with some help from the returning Fate. The Dallas Mercy, DVa and Pharah all move to the Widow's body to make space for the (successful) Resurrect. In the process, Mickie kills Agilities. The point ticks to 99% before Soon finds and kills AKM. OGE gets low and is also killed by Soon. Agilities uses his Barrage to kill Seagull and Mickie. Kariv kills HarryHook.
+
+#### Analysis
+
+The Barrage ends up sealing the fight, but the deciding factor ended up being that it seemed like the Valiant executed a better fight than the Dallas Fuel. They get the opening pick and soak up a Res in exchange for a mobile hero that can get back to the fight quickly. Soon then picks off two weakened Fuel players and its off to the shooting-gallery races for the Valiant. They essentially have a full team compared with Dallas, who has 3.5 players before the Barrage cuts it down to just two supports in a second, which made for an easy end of fight. The Valiant weren't invulnerable after the Agilities pick (Soon gets hit, Kariv gets very low and OGE gets low during the fight) but the Fuel didn't follow up so Custa was able to heal up their wounded soldiers.
+
+This fight shows the opportunity for more pick-focused comps to suppress support ult charge __with follow up damage__. Through all the picks (including the supports) the Valiant convincingly lead the ult charge race to the potential defensive ultimate (both supports at 80+%) with HarryHook at 60% and Unkoe at 37%. No Dallas Fuel player got ults going into the final fight.
+
+## Control Center
+
+### Team Fight 1
+
+#### Ult Economy
+
+#### Summary
+
+#### Analysis
