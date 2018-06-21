@@ -111,7 +111,7 @@ While Dallas was dealing more damage than the Valiant early in the fight and got
 
 Custa's healing that sustained the team in the first fight has led him to have a Valkyrie available in the second fight before any other ultimate. The Valiant are also close to Transcendence (72%) and DVa bomb (77%) for the next fight if the team can keep them alive. Dallas Fuel's two closest players are DVa and Widowmaker. Neither ult is necessarily a fight win; however, both can lead to picks that can turn the tide of a fight. Based on the early Valkyrie, the Valiant should win this fight with a single ultimate and be able to keep the team alive long enough to build up more ultimates.
 
-~~In pick based comps like a Widow plus Pharah with dive follow up, the supports on both sides will have a harder time gaining ult charge on healing, although they can clean up the splash damage. They are also more likely to be focused by the enemy team.~~
+In pick based comps like a Widow plus Pharah with dive follow up, the supports on both sides will have a harder time gaining ult charge on healing, although they can clean up the splash damage. They are also more likely to be focused by the enemy team.
 
 #### Summary
 
