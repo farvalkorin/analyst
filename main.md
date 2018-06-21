@@ -1,4 +1,4 @@
-If you like this, check out more at https://farvalkorin.github.io/analyst/index
+If you like this, check out more at [farvalkorin.github.io/analyst](https://farvalkorin.github.io/analyst/index)
 
 # The Intro
 
