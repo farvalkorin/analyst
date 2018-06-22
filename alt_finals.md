@@ -235,3 +235,8 @@ Soon starts off by taking a long flank through a far entrance on McCree. Dallas 
 #### Analysis
 
 Dallas does a great job soaking time and scouting out the McCree flank to make sure that they know where to focus and don't get surprised by headshots onto their supports. There was never really any question that Dallas would take the fight once Soon got spotted. The RIP Tire and Shatter were just icing; neither got any direct value in the kill feed.
+
+### Map Analysis
+<!-- TODO(buckbaskin): Map Analysis/Play Analysis -->
+
+What changed between the two maps? Dive vs. Rein-Zarya comps? Pulling out a Junkrat instead of a Pharah? Agilities got very little value out of the Pharah on the map and got taken out a couple times. What do the Dallas Fuel do differently that the Valiant don't handle? Every team tracks ults and knows who the priority targets are.
