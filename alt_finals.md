@@ -1,11 +1,10 @@
-<!-- TODO(farvalkorin): add twitch/OWL links to video -->
 If you like this, check out more at [farvalkorin.github.io/analyst](https://farvalkorin.github.io/analyst/index)
 
 # The Intro
 
 The LA Valiant took down the crosstown rival Gladiators and the season leading NYXL to win the Stage 4 playoffs. What could have happened if the Gladiators had instead chosen to face off against the NYXL in the first round, and the Valiant had met the Dallas Fuel in the playoffs?
 
-The analysis focuses on a mini-reverse sweep on Lijang Tower where the previously undefeated Valiant are taken down. Dallas Fuel turn around a 99-0 loss into a 99-38 win followed by a 99-0 victory to seal the deal.
+The analysis focuses on a mini-reverse sweep on Lijang Tower where the previously undefeated Valiant are taken down. Dallas Fuel turn around a 99-0 loss into a 99-38 win followed by a 99-0 victory to seal the deal. You can find the game at [https://overwatchleague.com/en-us/match/10629/game/9859](https://overwatchleague.com/en-us/match/10629/game/9859).
 
 # The Alternate History: Overwatch Edition
 
@@ -78,11 +77,19 @@ Night Market is the most linear of the three maps in Lijang Tower. Fights tend t
 
 The Valiant run dive tanks with Fate on Winston and Space on DVa. They choose to run Soon on Widowmaker and Agilities on Pharah for DPS. Custa and Kariv play Mercy and Zenyatta respectively.
 
+### Control Center: Rein Zarya Pharah
+
+The Valiant run Reinhardt and Zarya. They choose McCree and Pharah as their DPS and stick with Mercy and Zenyatta as their healers.
+
 ## Dallas
 
 ### Gardens: Pharah Widow Dive
 
 The Fuel run the same composition, with OGE on Winston, Mickie on DVa, AKM on Widowmaker, Seagull on Pharah, HarryHook on Mercy and Unkoe on Zenyatta.
+
+### Control Center: Rein Zarya Junkrat
+
+Dallas runs the same composition as Valiant with one exception: they swap Pharah out for Junkrat. 
 
 ## Analysis
 
@@ -91,6 +98,12 @@ The Fuel run the same composition, with OGE on Winston, Mickie on DVa, AKM on Wi
 As mentioned above in the map discussion, the long sightlines on the map favor a Widowmaker, and the large skybox with a central pillar means that Pharah has a lot of space to work and provide value, even against an enemy Widowmaker. With dive comps that run Pharah and Widowmaker, neither team is really set up to brawl on point. If the tanks and/or supports are on the point, the Pharah and Widow have to expose themselves more to see onto the point and risk sitting alone or choose the worse option to move to point and give up their range. The teams will instead want to control the open spaces with range and then punish exposed targets on the other team. This leads to an advantage for the defensive Pharah and Widowmaker who can use their mobility and range respectively to pressure the other team before they can even reach the point while remaining relatively safe (especially if they have a Mercy pocketing them).
 
 In a mirror comp, neither team starts with an explicit advantage by hero counters.
+
+### Control Center
+
+As mentioned in the map discussion, the length of the sightlines on the map favor McCree who can choose to never play out of his effective range. The plethora of small corridors and angles to bounce grenades also favors Junkrat over Pharah, who really only has the space to play her usual Pharah games outside with pillars to dance around, but similarly restricted sightlines onto the point and down the main corridors. Additionally, the RIP Tire is a better ultimate to combo with the Graviton because it has a better opportunity for picks with its burst damage and Junkrat can use it from relative safety. Reinhardt can shield pretty much every doorway and corridor on the map and, similarly, swing his hammer when supported by teammates. Zarya provides a more favorable ultimate to DVa when there are lots of tight corners; however, if one of the teams were to run a DVa they could shut down the enemy Zarya. Additionally, and perhaps a primary concern, Zarya can gain huge amounts of charge against a spammy, splash damage hero such as Junkrat or Pharah.
+
+In this almost-mirror comp, the teams are level except for the Pharah-Junkrat swap. While Agilities (Valiant Pharah) can play outside the feasible range for Seagull (Dallas Junkrat), he can still get countered by AKM on the Dallas McCree. From an initial analysis point of view, Junkrat is the better hero for this map and Pharah will be harder to derive value. 
 
 # Team Fights
 
@@ -142,12 +155,83 @@ This fight shows the opportunity for more pick-focused comps to suppress support
 
 ## Control Center
 
-<!-- TODO(farvalkorin): start here -->
-
 ### Team Fight 1
-
-#### Ult Economy
 
 #### Summary
 
+The fight starts out with both teams trying to take space on the point. Agilities and Soon combine for an early pick on Unkoe who moved up aggressively away from his team that was more towards the stairs. Soon then picks of Mickie on Zarya as the point unlocks. Kariv finds AKM and Dallas backs out short a DPS, tank and support.
+
 #### Analysis
+
+This fight was won when Unkoe rotated left directly into the DPS of the Valiant. This allowed for a straightforward pick early. There also appeared to be better communication and awareness because Soon immediately turns and finds Mickie who is pushing up aggressively without much of his team around. AKM, who had positioned behind Mickie, gets picked off when he's left against a McCree and Zenyatta.
+
+### Team Fight 2
+
+#### Ult Economy
+
+HarryHook gained a quick ultimate. His Valkyrie is at 73% charge and should come online for the next fight. Custa is at 50% ult charge and should also reach a matching Valkyrie if there isn't an early pick and the fight sustains longer than the first fight that was relatively swift and in favor of the Valiant. Unkoe, after getting picked early, is at only 20% and he is unlikely to have a Transcendence for the next fight. Kariv should build his Transcendence in the next fight if he doesn't get picked early. Soon will have a deadeye next fight (70%) but AKM likely will not (44%) unless he carries with multiple kills in the coming fight. Seagull (44%) leads Agilities (36%) to the projectile DPS ultimates. Both have the opportunity to build ults in the next fight, but Seagull is more likely both with the lead and Junkrat tends to build RIP Tire faster. At this point, both tank lines are low on ultimate charge.
+
+The Dallas Fuel should come into this fight looking to shutdown Soon and Kariv early. The Deadeye isn't as consistent an ultimate for getting picks in an environment with lots of corners and obstacles, but it is still bad news for hurt or squishy heros. Kariv's Transcendence can carry the fight, especially if they use it as an aggression tool to support the team rushing in to pick off a support, so in some ways, it would be a 300 IQ strat to pick Kariv right after the Valiant use a Ressurect (e.g. to revive Soon). Expect a Valkyrie to sustain the team, with a possible focus on damage-boosting the Junkrat to build RIP Tire faster.
+
+The Valiant should be looking to pick HarryHook early; without HarryHook, Dallas is obviously behind in the available ultimate economy and, without a Ressurect for Dallas, the team is effectively down a player. The Valiant's path to victory in this fight is less complicated and doesn't require ultimates; therefore they should take the fight.
+
+#### Summary
+
+Soon pushes forward and picks off Seagull very early in the fight, forcing the Resurrect out of Dallas early and building Soon's ultimate charge. As Dallas pushes through the door, the Valiant fall back to the exit of the main hallway onto the point. Soon gets caught out and killed by Unkoe at 99% ult charge (Step 1 in the Dallas plan!). Custa finds a way to resurrect Soon, but AKM chunks down Agilities while the supports are faced elsewhere. Mickie and co kill Kariv at 98% ult charge (Step 2 in the Dallas plan, even doing it after the Res), setting Dallas up for a much better fight even before HarryHook would need to use his Valkyrie. AKM lands a Flashbang to stun Fate out of a very aggressive charge and he cleans up the kill with a headshot and help from OGE. AKM then kills Custa with the Rein shield out of the way. Soon suicides in an attempt to kill AKM and Space disengages.
+
+#### Analysis
+
+while it isn't an ultimate advantage, the defending team can push forward to a choke and attempt to force the attackers (in this case Dallas) to use resources or ultimates just to push the opposing team back to the point instead of off the point. The Valiant don't spend long pushed forward, largely to give Agilities more practical angles to spam at Dallas as they take the long march to the point. This positioning doens't work, and Dallas executes their plan that I outlined for them to a T, with the added benefit of killing Agilities in the process of removing Soon and Kariv before they can use their ultimates in the fight. This puts Dallas in the position of cleaning up without using ultimates and leaves them in a much better position than they otherwise would be in leaving this fight, win or not.
+
+### Team Fight 3
+
+#### Ult Economy
+
+Dallas held onto Valkyrie and Deadeye. They are closest to Earthshatter, but are generally close (80+%) to RIP Tire, Transcendence and Graviton. The Valiant have 3 ultimates available (Transcendence, Valkyrie, and Deadeye) but their remaining ultimates are slightly behind Space is at only 65% and Fate is at 73% to Earthshatter.
+
+The teams should have an Earthshatter-Deadeye combo if they can land the Earthshatter; however, both the Earthshatter and the impending Graviton are very dependent on how many people they catch. The Earthshatter is probably worth using even for a single pick on a support or getting two heros. The Graviton should look for more value, or it should wait a fight after the defensive ultimates have been used. 
+Dallas is closer to a wipe combo, but if they can win this fight without it and push forward, they have "Press Q twice to win a fight". Dallas should look to use Shatter and Deadeye in the fight and keep HarryHook alive until he can use Valkyrie to sustain the team.
+
+The Valiant have two defensive ultimates and Deadeye available so I'd still say they are in a better position ultimate wise, especially if Fate can come back and block a OGE's Shatter. My prediction for this fight is that it will come down to which side can land a more productive Earthshatter, with a potential surprise fight-win ticket from Seagull's RIP Tire.
+
+#### Summary
+
+Dallas falls back onto the stairs away from the main entrance with AKM flanking to the high platform. Unkoe picks off Soon early, who is immediately Res'd, taking out the Mercy mini-ult for the Valiant early. The pick happened because the Valiant had seen the Fuel rotate to stairs, but Unkoe took a sightline across the point and hit Soon when he was facing up towards the mini pack. At this point, Dallas has stacked up all 6 ultimates and the fight comes down to who can stack ultimates more efficiently, slightly in favor of Dallas who still had their Resurrect.
+
+Dallas chooses to Graviton the tank line of the Valiant, popping both RIP Tire and a flying Deadeye. Soon kills HarryHook (stopping Res and Valkyrie), trading for OGE killing Space (stopping Graviton). Kariv and Unkoe pop Transcendence. Custa uses Valkyrie. Fate and OGE use Earthshatter. OGE uses it as Kariv comes out of Transcendence to secure the kill, but Fate doesn't catch anyone, or at least there isn't any follow up. Mickie kills Soon, canceling High Noon. Thanks to Kariv's Transcendence, Dallas Fuel have all 6 heros while holding onto Valkyrie. The Valiant have Custa, Agilities and Fate alive with Space coming back from spawn, but Fate gets killed by OGE. Custa flies out to Agilities out past the cliff edge of the map after nearly dying to OGE.
+
+#### Analysis
+
+Dallas had and used most of their bank of ultimates, but from an overall fight perspective, won the fight "efficiently" because they were able to hang on to a defensive ultimate. Especially with Soon getting his ult canceled for no value, the Valiant threw in four ultimates into a losing fight, including both of their defensive support ultimates. This "efficiency" derived largely from preventing the Valiant front line from making plays by both wasting Fate's Shatter and killing Space before Graviton could be used. This meant that the team could still frag out even after wasting the Deadeye and RIP Tire for all intents and purposes.
+
+### Team Fight 4
+
+#### Ult Economy
+
+HarryHook has Valkyrie. OGE built back up to 50% ult after his shatter, and AKM is at 40%. Seagull and Mickie are at 30% and Unkoe is at 20% after a late Transcendence. The Valiant have Graviton and Rocket Barrage available, but the rest of the team is below 20% ult charge and likely won't have ultimates for this fight. The Fuel have 63% capture percentage, so there are about 2 more full team fights before the end of the map.
+
+HarryHook is the key factor in this fight. If he can stay alive and keep his team alive during the Graviton, Dallas should win the fight. This can also come down to how many people are caught out in the Graviton itself, where it'll be easier to sustain the team if fewer people are caught. The Valiant are looking to catch the team in a good Graviton and get value out of the Barrage, although I'm skeptical.
+
+#### Summary
+
+The Valiant lead onto the point with a Graviton, but it only catches OGE, so the Graviton-Barrage combo is effectively a solo ult to take down the Reinhardt. This allows the Valiant to take space unopposed on the point; however, the Barrage is stopped early by Unkoe killing Agilities, then Seagull kills Soon and Kariv. Custa resurrects Agilities, but AKM immediately kills Fate and Mickie kills Space when the supports are dead (Kariv) or occupied elsehwere (Custa). In the chaos, HarryHook finds the Res onto OGE during a Valkyrie, Unkoe kills Agilities _again_ and AKM kills Custa completing the team kill.
+
+#### Analysis
+
+The Valiant really lose the fight from the start when they get minimal value out of the Graviton-Barrage combo. They're left with no support ultimates, and really nothing to fight with. They also move onto the point to try and take space, but the Fuel use the circular nature of the area around the point to easily flank the team and make Fate's shield next to useless because they have damage coming in at 180 degree angles. I think that the Valiant would have been better served tanking the Junkrat damage going through one of the smaller corridors and Graving there, becuase it would have been more likely to catch supports (HarryHook in particular). On the other hand, the Fuel played the Graviton very well, staying spread out to the point that no more than two, and probably just one hero would get caught in any particular location.
+
+In hindsight, the Mercy play by Custa is a good example of when the opporuntity cost of Resurrect on a low-hp target is too high. In the time that Custa took to get Agilities back (200 hp), Fate is taken down and Space is killed. Custa was in a position to at least keep Fate alive if not both; however, at the time of the Resurrect, the Dallas Fuel had a great crossfire set up where Mickie and Seagull were behind enemy lines in the Valiant main hallway and Unkoe and AKM firing from more towards the Dallas main hallway. Fate is in a bad position and would have likely died anyway. Again in hindsight, but Custa got caught in a bad position providing non-optimcal value to the team when the Valiant needed him most. I again think they would have been in a better position for the fight if they'd pushed into the Junkrat early instead of letting the Zarya/Junkrat combo get behind them as they pushed onto point.
+
+### Team Fight 5
+
+#### Ult Economy
+
+The Valiant have nothing and very little time to build anything. Dallas will have AKM's Deadeye for the next fight, as well as a RIP Tire and possibly a Shatter if OGE lands Firestrikes. With the end of the Valkyrie, the team moves up to take loads of space up to the Valiant choke, making the retake nearly impossible. Dallas should take this fight easily, especially because they can soak time kiteing back to the point knowing that the Valiant can't punish them. It's the last fight and the Valiant have nothing, so Dallas can essentially press Q when they feel like it to seal the deal.
+
+#### Summary
+
+Soon starts off by taking a long flank through a far entrance on McCree. Dallas kites back to the point and the fight ends up their as the time reaches 99%. Soon gets seen, but he is able to touch and get open shots onto the Dallas supports at the opening of the fight. AKM turns around and finds Soon with Mickie. AKM then lands a couple of body shots to kill Agilities. Seagull pops RIP Tire, which leads to OGE killing Space and Fate. This leaves the Dallas Earthshatter wide open. Custa resurrects Agilities, but dies in the process and no one on Valiant can make it to the point.
+
+#### Analysis
+
+Dallas does a great job soaking time and scouting out the McCree flank to make sure that they know where to focus and don't get surprised by headshots onto their supports. There was never really any question that Dallas would take the fight once Soon got spotted. The RIP Tire and Shatter were just icing; neither got any direct value in the kill feed.
