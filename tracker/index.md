@@ -1,4 +1,4 @@
-# Analyst: Tracker Project
+# [Analyst: Tracker Project](https://github.com/farvalkorin/analyst/tree/master/tracker)
 
 Automatic Game Tracking via Spectator Feed
 
