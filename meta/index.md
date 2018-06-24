@@ -1,4 +1,4 @@
-# Analyst: Meta
+# [Analyst: Meta](https://github.com/farvalkorin/analyst/tree/master/meta)
 
 Automated Meta Analysis and Team Strength Analysis
 
