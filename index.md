@@ -13,3 +13,8 @@ This post is for Jayne's Amateur Overwatch Analyst Competition.
 The prompt is as follows: Take a look at the Dallas Fuel's defense and create a sample analysis piece that you could present to the Houston Outlaws (or any other team) in order to explain how the composition functions, how the Dallas Fuel was positioned and why, why the composition is strong on Hanamura A, and finally the overall strengths and weakness of the strategy.
 
 The Overwatch game in question is a match between the Dallas Fuel and Philadelpha Fusion. In particular, it is looking at Dallas Fuel's defense against the Philadephia Fusion on Hanamura, with a focus on the first point. [Continue reading](https://farvalkorin.github.io/analyst/main)
+
+# Farvalkorin's Data Project
+
+- [Individual Ability Tracking](https://farvalkorin.github.io/analyst/tracker)
+- [Data Driven Meta Analysis](https://farvalkorin.github.io/analyst/meta)
