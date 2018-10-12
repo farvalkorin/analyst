@@ -1,5 +1,9 @@
 # Farvalkorin's Analysis
 
+## Welcome to the Zoo - Breaking down GOATs
+
+The composition commonly known as Goats (and probably should be known as 3-3) has become an often played composition in today's competitive Overwatch scene. If you've heard the name but not seen it before, it breaks down as follows: The team runs 3 tanks (conventionally Reinhardt, Zarya and DVa) and 3 supports (conventionally Moira, Lucio and Brigitte). The composition favors enclosed spaces and brawling on point as opposed to poke battles at long range, and it has mobility from Lucio's speed boost. [Continue reading](https://farvalkorin.github.io/analyst/goats/intro)
+
 ## An Alternate History of the Stage 4 Finals
 
 The LA Valiant took down the crosstown rival Gladiators and the season leading NYXL. What could have happened if the Gladiators had instead chosen to face off against the NYXL in the first round, and the Valiant had met the Dallas Fuel in the playoffs?
