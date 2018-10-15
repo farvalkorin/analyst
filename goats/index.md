@@ -25,4 +25,6 @@ Why Lucio? How important is he to the composition? What does he bring that other
 
 ### DVa
 
-If you like this, check out more at [farvalkorin.github.io/analyst](https://farvalkorin.github.io/analyst)
+
+
+If you're interested in more analysis like this, check out more at [farvalkorin.github.io/analyst](https://farvalkorin.github.io/analyst)
