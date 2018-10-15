@@ -13,18 +13,27 @@ There are a number of common questions that come up about the composition. If yo
 
 ### Lucio
 
-Why Lucio? How important is he to the composition? What does he bring that other supports can't? Coming Soon!
+Why Lucio? What is his role in the composition? How important is he to making everything run smoothly? What does he bring that other supports can't? Coming Soon!
 
 ### Moira
 
+Why Moira? What is her role in the composition? Can she be replaced?
+
 ### Reinhardt
+
+Why Reinhardt? Should he stick around, or would 3-3 be better without him?
 
 ### Brigitte
 
+Why Brigitte? GOATs comp got its start after the release of Brigitte as a new hero, but with some recent nerfs are there heroes that can do her role better?
+
 ### Zarya
+
+Why Zarya? What does she bring to GOATs that takes it to the next level? Can she be replaced?
 
 ### DVa
 
+DVa seems to be a common factor across many compositions, but I'd argue her role on GOATs is different from how she's played in dive. Why DVa in GOATs? Could she be replaced?
 
 
 If you're interested in more analysis like this, check out more at [farvalkorin.github.io/analyst](https://farvalkorin.github.io/analyst)
