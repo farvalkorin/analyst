@@ -13,11 +13,11 @@ There are a number of common questions that come up about the composition. If yo
 
 ### Lucio
 
-Why Lucio? What is his role in the composition? How important is he to making everything run smoothly? What does he bring that other supports can't? Coming Soon!
+Why Lucio? What is his role in the composition? How important is he to making everything run smoothly? What does he bring that other supports can't? Speed! [Continue Reading](https://farvalkorin.github.io/analyst/goats/lucio)
 
 ### Moira
 
-Why Moira? What is her role in the composition? Can she be replaced?
+Why Moira? What is her role in the composition? Can she be replaced? Coming Soon!
 
 ### Reinhardt
 
