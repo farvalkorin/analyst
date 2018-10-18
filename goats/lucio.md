@@ -1,4 +1,4 @@
-If you like this, check out more at [farvalkorin.github.io/analyst](https://farvalkorin.github.io/analyst)
+If you like this, check out more at [farvalkorin.github.io/analyst](https://farvalkorin.github.io/analyst). For more GOATs content, check out [farvalkorin.github.io/analyst/goats](https://farvalkorin.github.io/analyst/goats).
 
 # Lucio
 
@@ -6,7 +6,7 @@ If you like this, check out more at [farvalkorin.github.io/analyst](https://farv
 
 Lucio alternates between healing teammates around him for 16 hp per second and giving them a 30% speed boost in a 12 meter radius. He can also Amp Up his healing to 46 hp per second or give his allies a 70% speedboost for 3 seconds. He can shoot his gun in 4 round bursts and boop back enemies.
 
-## What is Lucio's Role in GOATs?
+## What is Lucio's Role in GOATs Comp?
 
 GOATs functionality is dependent on getting a lot of high health teammates into a battle and allowing them to do lots of relatively unblockable damage to a target. For getting the team in, there is no one better than Lucio with his speed boost. The extra speed enables short range heroes like Reinhardt to get into a range where they can do reliable damage and initiate a fight quickly when the other team is less likely to be able to evade and lengthen the timeline of the fight. On the flip side, Lucio can also speedboost his team out to avoid taking damage from a dive or another brawling composition until the team is ready and extend the fight time to allow the team to regain cooldowns or for a teammate to respawn.
 
@@ -26,7 +26,7 @@ Lucio has additional utility when one considers his boop ability to CC an enemy 
 
 ![Lucio Boops Reinhardt via Gifer](https://i.gifer.com/8V4r.gif)
 
-## But Are you certain?
+## But Are You Certain Lucio's the Right Hero?
 
 So maybe you don't believe my math about the magical restorative power of speed boost. Who else would you replace Lucio with to complement a GOATs comp with Moira and Brigitte?
 
