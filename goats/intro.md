@@ -1,4 +1,4 @@
-If you like this, check out more at [farvalkorin.github.io/analyst](https://farvalkorin.github.io/analyst)
+If you like this, check out more at [farvalkorin.github.io/analyst](https://farvalkorin.github.io/analyst). For more GOATs content, check out [farvalkorin.github.io/analyst/goats](https://farvalkorin.github.io/analyst/goats).
 
 # Welcome to the Zoo
 
