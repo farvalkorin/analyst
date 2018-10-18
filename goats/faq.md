@@ -1,4 +1,6 @@
-# Frequently Asked Questions about 3-3
+# Frequently Asked Questions about 3-3 Compositions
+
+If you're looking for more content about the composition, check out the [full series](https://farvalkorin.github.io/analyst/goats).
 
 ## What is GOATs?
 
