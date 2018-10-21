@@ -12,7 +12,7 @@ A team named GOATs had a run of success using the composition almost exclusively
 
 ## What is Lucio's role in a GOATs comp?
 
-Speedboost his team into and out of fights. He should never ride the payload, if he's not with the team, the team is sitting ducks sitting in super glue on top in the barrel to body block for the fish that people shoot. You can take my word for it, or you can read the [detailed explanation](https://farvalkorin.github.io/analyst/goats/lucio).
+Speedboost his team into and out of fights. He should never ride the payload (more [commentary](https://youtu.be/uIbchrGvqwE?t=2242) from [Jayne](https://youtu.be/uIbchrGvqwE?t=1433)), if he's not with the team, the team is sitting ducks sitting in super glue on top in the barrel to body block for the fish that people usually shoot. You can take my short word for it, or you can read my [detailed explanation](https://farvalkorin.github.io/analyst/goats/lucio) of Lucio's role in the composition.
 
 # Did I miss a question?
 
